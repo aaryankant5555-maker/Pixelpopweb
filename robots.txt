@@ -1,0 +1,20 @@
+# PixelPop — https://pixelpop-designs.vercel.app/
+# Every page is open to search engines and AI assistants.
+User-agent: *
+Allow: /
+
+# Search and AI-assistant crawlers, named so it's explicit they're welcome
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Google-Extended
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Applebot
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://pixelpop-designs.vercel.app/sitemap.xml
